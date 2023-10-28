@@ -1,13 +1,21 @@
-# Sample Hardhat Project
+# My First Smart Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Welcome to the "My First Smart Contract" project! This repository documents my journey in creating and deploying my very first Ethereum smart contract by following the Web3 University guide on creating smart contracts. You can access the original guide here: [Web3 University Smart Contract Guide](https://www.web3.university/tracks/create-a-smart-contract/deploy-your-first-smart-contract).
 
-Try running some of the following tasks:
+## Overview
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+This project reflects my step-by-step progress in understanding and implementing smart contracts. The guide from Web3 University provided a solid foundation, and I've documented my experience here.
+
+## Getting Started
+
+### Prerequisites
+
+- Basic knowledge of Ethereum and smart contracts.
+- An Ethereum wallet or development environment.
+- Node.js and npm installed.
+
+### Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/my-first-smart-contract.git
